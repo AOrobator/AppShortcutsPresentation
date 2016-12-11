@@ -12,6 +12,9 @@
 * Activated by long press on app icon
 * Can be pinned to the home screen
 
+^ Explain picture
+^ Amex possible shortcuts -> Messaging, View Balance
+
 --- 
 # Types of Shortcuts
 
@@ -24,3 +27,18 @@
 ---
 
 # Live Demo!
+
+^ Add metadata tag to manifest
+^ Create shortcuts.xml
+^ Run code to display static shortcut
+^ Create ShortcutHelper.kt
+^ Create ShortcutAction 
+^ Define getConstellationVisitedCount()
+^ Define updateShortcuts()
+^ Call in onCreate() of application
+^ Run code (show dynamic shortcuts, not dynamic yet cuz no trackin)
+^ Define trackShortcutused()
+^ Call it in ConstellationDetailActivity
+^ Run App, go to constellation several times to make it appear in shortcuts list
+^ Implement onOptionsItemSelected in ConstellationDetailActivity
+^ Run app, pin shortcut, disable it
