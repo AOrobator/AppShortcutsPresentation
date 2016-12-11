@@ -51,3 +51,7 @@
 * Publish a maximum of four shortcuts
 * Maintain shortcut and action usage history
 * Dynamic shortcuts aren't preserved during backup and restore
+
+---
+
+# Questions?
