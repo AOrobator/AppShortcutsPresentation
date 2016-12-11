@@ -5,10 +5,22 @@
 
 # What are App Shortcuts? 
 
-* Introduced in Android 7.1
+![right fit](https://github.com/AOrobator/AppShortcutsPresentation/blob/master/img/google_maps_shortcuts.png?raw=true)
+
+* Introduced in Android 7.1 (API 25)
 * Access to primary functions of your app
+* Activated by long press on app icon
 * Can be pinned to the home screen
 
 --- 
-## Use a __*mixture*__ of **strong** and _emphasis_ for _**maximum**_ impact!
+# Types of Shortcuts
 
+* Static
+  * Defined in XML
+  * Can only be updated with app updates
+* Dynamic
+  * Can be updated at runtime
+
+---
+
+# Live Demo!
