@@ -42,3 +42,12 @@
 ^ Run App, go to constellation several times to make it appear in shortcuts list
 ^ Implement onOptionsItemSelected in ConstellationDetailActivity
 ^ Run app, pin shortcut, disable it
+
+---
+
+# Best Practices
+
+* Follow design guidelines: [LINK](https://commondatastorage.googleapis.com/androiddevelopers/shareables/design/app-shortcuts-design-guidelines.pdf)
+* Publish a maximum of four shortcuts
+* Maintain shortcut and action usage history
+* Dynamic shortcuts aren't preserved during backup and restore
